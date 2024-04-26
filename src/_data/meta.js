@@ -1,32 +1,31 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: 'Tom Rhodes',
   siteDescription:
-    'Eleventy starter built around the CSS workflow suggested by buildexcellentwebsit.es',
+    'Tom Rhodes blog.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
   author: {
-    name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+    name: 'Tom Rhodes', // i.e. Lene Saile - page / blog author's name. Must be set.
     avatar: '/favicon.png',
-    email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-    website: 'https://www.lenesaile.com' // i.e. https.://www.lenesaile.com - the personal site of the author
+    email: 'tom@booktrawler.com', // i.e. hola@lenesaile.com - email of the author
+    website: 'https://www.booktrawler.com' // i.e. https.://www.lenesaile.com - the personal site of the author
   },
   creator: {
-    name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-    email: 'hola@lenesaile.com',
-    website: 'https://www.lenesaile.com',
-    social: 'https://front-end.social/@lene'
+    name: 'Richard Stewart', // i.e. Lene Saile - creator's (developer) name.
+    email: 'richard@booktrawler.com',
+    website: 'https://www.booktrawler.com'
   },
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   opengraph_default: '/assets/images/template/opengraph-default.jpg', // fallback/default meta image
   opengraph_default_alt:
-    'Visible content: Eleventy starter built around the CSS workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es', // alt text for default meta image
+    'Tom Rhodes Blog', // alt text for default meta image
   blog: {
     // RSS feed
-    name: 'My Web Development Blog',
+    name: 'Tom Rhodes Blog',
     description:
       'Tell the word what you are writing about in your blog. It will show up on feed readers.',
     // feed links are looped over in the head. You may add more to the array.
@@ -46,7 +45,7 @@ module.exports = {
     paginationPage: 'Page',
     paginationPrevious: 'Previous',
     paginationNext: 'Next',
-    paginationNumbers: true
+    paginationNumbers: false
   },
   details: {
     aria: 'section controls',
