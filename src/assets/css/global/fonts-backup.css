@@ -87,13 +87,3 @@
     local(''),
     url(/assets/fonts/robotomono/robotomono-regular.woff2) format('woff2');
 }
-
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-display: swap;
-  font-weight: normal;
-  src:
-    local(''),
-    url(/assets/fonts/lora/Lora-Regular.woff2) format('woff2');
-}
