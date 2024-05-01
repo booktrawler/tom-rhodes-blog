@@ -8,6 +8,11 @@
       "value": ["Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
     },
     {
+      "name": "Logo",
+      "description": "Display font stack for headings and large text.",
+      "value": ["BonheurRoyale", "Lora", "Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+    },
+    {
       "name": "Base",
       "description": "Base font stack for body text.",
       "value": [
