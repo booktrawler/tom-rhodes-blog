@@ -1,9 +1,9 @@
 ---
 title: "The Shepherd's Burden - Tom's Stories 28"
-date: 2024-05-29
+date: "2024-05-29"
 permalink: "stories/2024/May/church-leadership-depict-the-challenges-and-importance-of-christian-leadership/"
-description: The story explores the challenges faced by a pastor, Michael Harris, as he struggles with the overwhelming demands of his calling. Through the support of his wife, Sarah, and the parable of the Good Shepherd, Michael learns to delegate responsibilities and empower his congregation, rediscovering the joy and purpose of his ministry.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story explores the challenges faced by a pastor, Michael Harris, as he struggles with the overwhelming demands of his calling. Through the support of his wife, Sarah, and the parable of the Good Shepherd, Michael learns to delegate responsibilities and empower his congregation, rediscovering the joy and purpose of his ministry."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Shepherd's Burden

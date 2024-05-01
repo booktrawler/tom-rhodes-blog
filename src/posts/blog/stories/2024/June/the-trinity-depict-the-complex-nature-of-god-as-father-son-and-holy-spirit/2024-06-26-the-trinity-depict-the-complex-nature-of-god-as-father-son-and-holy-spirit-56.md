@@ -1,9 +1,9 @@
 ---
 title: "The Unseen Trinity - Tom's Stories 56"
-date: 2024-06-26
+date: "2024-06-26"
 permalink: "stories/2024/June/the-trinity-depict-the-complex-nature-of-god-as-father-son-and-holy-spirit/"
-description: The story follows Sarah, a grieving widow who doubts her faith after her husband's passing, until his friend David helps her rediscover the mystery of the Trinity and find comfort in the unseen presence of the Father, the Son, and the Holy Spirit guiding her through her grief and struggles.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a grieving widow who doubts her faith after her husband's passing, until his friend David helps her rediscover the mystery of the Trinity and find comfort in the unseen presence of the Father, the Son, and the Holy Spirit guiding her through her grief and struggles."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Unseen Trinity

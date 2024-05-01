@@ -1,9 +1,9 @@
 ---
 title: "The Forgiveness Lesson - Tom's Stories 33"
-date: 2024-06-03
+date: "2024-06-03"
 permalink: "stories/2024/June/the-sermon-on-the-mount-focus-on-a-specific-teaching-from-the-sermon-on-the-mount/"
-description: The story follows two estranged sisters, Sarah and Emily, who are reunited through a powerful sermon on forgiveness. After years of unresolved resentment, they embark on a journey of reconciliation, learning to let go of the past and embrace the future with love and understanding. The story explores the transformative power of forgiveness and the role of spiritual guidance in mending broken relationships.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows two estranged sisters, Sarah and Emily, who are reunited through a powerful sermon on forgiveness. After years of unresolved resentment, they embark on a journey of reconciliation, learning to let go of the past and embrace the future with love and understanding. The story explores the transformative power of forgiveness and the role of spiritual guidance in mending broken relationships."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Forgiveness Lesson

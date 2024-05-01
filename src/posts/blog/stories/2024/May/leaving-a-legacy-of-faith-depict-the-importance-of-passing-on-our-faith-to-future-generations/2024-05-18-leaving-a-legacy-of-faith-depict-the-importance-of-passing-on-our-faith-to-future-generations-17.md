@@ -1,9 +1,9 @@
 ---
 title: "Threads of Faith - Tom's Stories 17"
-date: 2024-05-18
+date: "2024-05-18"
 permalink: "stories/2024/May/leaving-a-legacy-of-faith-depict-the-importance-of-passing-on-our-faith-to-future-generations/"
-description: The story follows a grandmother's lifelong journey of faith, woven into a quilt that she shares with her granddaughter, exploring intergenerational dynamics as the younger generation grapples with doubt while the older holds steadfast, and the transformative power of faith passed down through the generations.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a grandmother's lifelong journey of faith, woven into a quilt that she shares with her granddaughter, exploring intergenerational dynamics as the younger generation grapples with doubt while the older holds steadfast, and the transformative power of faith passed down through the generations."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Threads of Faith

@@ -1,9 +1,9 @@
 ---
 title: ""The Forgotten Gift" - Tom's Stories 60"
-date: 2024-06-30
+date: "2024-06-30"
 permalink: "stories/2024/June/the-parable-of-the-talents-convey-the-message-of-using-our-gifts-and-abilities-for-gods-purpose/"
-description: A woman named Sarah, feeling unfulfilled as a wife and mother, rediscovers her forgotten gift of writing with the help of her mentor. She uses her talent to inspire others, finding renewed purpose and fulfilling her God-given calling, in this heartwarming tale of self-discovery and the power of using one's gifts to bless the world.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah, feeling unfulfilled as a wife and mother, rediscovers her forgotten gift of writing with the help of her mentor. She uses her talent to inspire others, finding renewed purpose and fulfilling her God-given calling, in this heartwarming tale of self-discovery and the power of using one's gifts to bless the world."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #"The Forgotten Gift"

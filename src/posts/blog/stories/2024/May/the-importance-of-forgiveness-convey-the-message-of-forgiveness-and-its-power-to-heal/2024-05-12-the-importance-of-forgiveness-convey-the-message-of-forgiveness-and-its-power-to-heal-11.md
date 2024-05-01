@@ -1,9 +1,9 @@
 ---
 title: "A Daughter's Forgiveness - Tom's Stories 11"
-date: 2024-05-12
+date: "2024-05-12"
 permalink: "stories/2024/May/the-importance-of-forgiveness-convey-the-message-of-forgiveness-and-its-power-to-heal/"
-description: A mother and daughter's journey to reconciliation after a painful betrayal, exploring the complexities of forgiveness, the power of faith, and the hope of restoring a broken relationship.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A mother and daughter's journey to reconciliation after a painful betrayal, exploring the complexities of forgiveness, the power of faith, and the hope of restoring a broken relationship."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Daughter's Forgiveness

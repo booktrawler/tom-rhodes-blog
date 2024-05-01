@@ -1,9 +1,9 @@
 ---
 title: "A Second Chance - Tom's Stories 55"
-date: 2024-06-25
+date: "2024-06-25"
 permalink: "stories/2024/June/forgiveness-demonstrate-the-power-of-forgiveness-to-heal-relationships/"
-description: A couple, Sarah and Mark, navigate the challenges of forgiveness and restoration after a betrayal, guided by their faith and the support of their pastor. The story explores the themes of trust, redemption, and the power of forgiveness to heal broken relationships.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance, Forgiveness
+description: "A couple, Sarah and Mark, navigate the challenges of forgiveness and restoration after a betrayal, guided by their faith and the support of their pastor. The story explores the themes of trust, redemption, and the power of forgiveness to heal broken relationships."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance, Forgiveness]"
 tags: "Tom's Stories"
 ---
 #A Second Chance

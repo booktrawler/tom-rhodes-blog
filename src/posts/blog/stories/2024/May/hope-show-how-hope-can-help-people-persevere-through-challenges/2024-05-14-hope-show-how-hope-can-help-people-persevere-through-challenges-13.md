@@ -1,9 +1,9 @@
 ---
 title: "The Anchor of Hope - Tom's Stories 13"
-date: 2024-05-14
+date: "2024-05-14"
 permalink: "stories/2024/May/hope-show-how-hope-can-help-people-persevere-through-challenges/"
-description: The story of a mother, Sarah, who feels overwhelmed by the demands of work, chores, and family responsibilities, but finds renewed hope and purpose by reconnecting with her faith and family through daily prayer, quality time, and an unwavering anchor of love and support.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story of a mother, Sarah, who feels overwhelmed by the demands of work, chores, and family responsibilities, but finds renewed hope and purpose by reconnecting with her faith and family through daily prayer, quality time, and an unwavering anchor of love and support."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Anchor of Hope

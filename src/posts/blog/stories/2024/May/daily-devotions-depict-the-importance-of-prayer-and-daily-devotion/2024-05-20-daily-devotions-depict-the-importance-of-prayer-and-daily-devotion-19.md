@@ -1,9 +1,9 @@
 ---
 title: "A Light in the Darkness - Tom's Stories 19"
-date: 2024-05-20
+date: "2024-05-20"
 permalink: "stories/2024/May/daily-devotions-depict-the-importance-of-prayer-and-daily-devotion/"
-description: A Light in the Darkness is a poignant story about a woman named Sarah, who grapples with profound grief after losing her husband. With the help of her pastor, Sarah rediscovers her faith and finds solace in her daily devotions, ultimately reigniting her spiritual connection and regaining a sense of purpose and hope in the face of immense loss.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A Light in the Darkness is a poignant story about a woman named Sarah, who grapples with profound grief after losing her husband. With the help of her pastor, Sarah rediscovers her faith and finds solace in her daily devotions, ultimately reigniting her spiritual connection and regaining a sense of purpose and hope in the face of immense loss."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Light in the Darkness

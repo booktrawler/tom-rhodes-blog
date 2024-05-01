@@ -1,9 +1,9 @@
 ---
 title: "The Crossroads of Faith - Tom's Stories 37"
-date: 2024-06-07
+date: "2024-06-07"
 permalink: "stories/2024/June/doubt-and-faith-create-a-story-about-someone-questioning-their-faith-but-ultimately-finding-renewed-strength/"
-description: The story follows Sarah, a woman grappling with a crisis of faith after her father's sudden death. With the guidance of her pastor and husband, she rediscovers the essence of her father's unwavering beliefs, rekindling her own spiritual connection and emerging from her crossroads of doubt with a renewed sense of purpose and resilience.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a woman grappling with a crisis of faith after her father's sudden death. With the guidance of her pastor and husband, she rediscovers the essence of her father's unwavering beliefs, rekindling her own spiritual connection and emerging from her crossroads of doubt with a renewed sense of purpose and resilience."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Crossroads of Faith

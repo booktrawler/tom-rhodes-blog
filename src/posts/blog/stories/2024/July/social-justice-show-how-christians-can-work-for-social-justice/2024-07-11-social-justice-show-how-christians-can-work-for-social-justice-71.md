@@ -1,9 +1,9 @@
 ---
 title: "A Light in the Darkness - Tom's Stories 71"
-date: 2024-07-11
+date: "2024-07-11"
 permalink: "stories/2024/July/social-justice-show-how-christians-can-work-for-social-justice/"
-description: A social worker named Sarah, feeling overwhelmed by the needs in her community, finds renewed purpose by partnering with her church to establish a homeless shelter and job training program, offering hope and empowerment to those in need and transforming lives through the power of compassion, community, and faith.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A social worker named Sarah, feeling overwhelmed by the needs in her community, finds renewed purpose by partnering with her church to establish a homeless shelter and job training program, offering hope and empowerment to those in need and transforming lives through the power of compassion, community, and faith."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Light in the Darkness

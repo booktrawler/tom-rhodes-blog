@@ -1,9 +1,9 @@
 ---
 title: "A Glimpse of Heaven - Tom's Stories 39"
-date: 2024-06-09
+date: "2024-06-09"
 permalink: "stories/2024/June/heaven-imagine-what-heaven-might-be-like/"
-description: A Glimpse of Heaven is a moving story about a woman named Sarah whose husband David is diagnosed with terminal cancer. As David's condition deteriorates, he shares vivid dreams of a heavenly realm, providing comfort and hope to his family. The narrative explores the transformative power of faith and the resilience of the human spirit in the face of grief and loss.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A Glimpse of Heaven is a moving story about a woman named Sarah whose husband David is diagnosed with terminal cancer. As David's condition deteriorates, he shares vivid dreams of a heavenly realm, providing comfort and hope to his family. The narrative explores the transformative power of faith and the resilience of the human spirit in the face of grief and loss."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Glimpse of Heaven

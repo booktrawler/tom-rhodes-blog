@@ -1,9 +1,9 @@
 ---
 title: "The Prodigal's Return - Tom's Stories 12"
-date: 2024-05-13
+date: "2024-05-13"
 permalink: "stories/2024/May/the-call-to-discipleship-depict-what-it-means-to-follow-christ-in-todays-world/"
-description: The story of a prodigal son's return home, where family, faith, and forgiveness intertwine to guide him on a journey of spiritual renewal and reconciliation with his parents, Sarah and Tom, who welcome him back with open arms.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story of a prodigal son's return home, where family, faith, and forgiveness intertwine to guide him on a journey of spiritual renewal and reconciliation with his parents, Sarah and Tom, who welcome him back with open arms."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Prodigal's Return

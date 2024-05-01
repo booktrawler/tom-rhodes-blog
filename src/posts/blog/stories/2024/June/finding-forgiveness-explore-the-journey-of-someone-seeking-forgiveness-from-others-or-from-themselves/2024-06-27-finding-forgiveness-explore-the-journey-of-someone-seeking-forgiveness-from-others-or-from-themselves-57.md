@@ -1,9 +1,9 @@
 ---
 title: "The Burden of Guilt - Tom's Stories 57"
-date: 2024-06-27
+date: "2024-06-27"
 permalink: "stories/2024/June/finding-forgiveness-explore-the-journey-of-someone-seeking-forgiveness-from-others-or-from-themselves/"
-description: The Burden of Guilt is a poignant story about a woman's struggle to forgive herself for a tragic accident, and her journey to find peace and spiritual renewal with the help of her pastor and community. It explores the themes of guilt, forgiveness, and the transformative power of faith.
-theme: Grief and Loss, Forgiveness, Spiritual Growth, Pastoral Guidance, Family Dynamics
+description: "The Burden of Guilt is a poignant story about a woman's struggle to forgive herself for a tragic accident, and her journey to find peace and spiritual renewal with the help of her pastor and community. It explores the themes of guilt, forgiveness, and the transformative power of faith."
+theme: "[Grief and Loss, Forgiveness, Spiritual Growth, Pastoral Guidance, Family Dynamics]"
 tags: "Tom's Stories"
 ---
 #The Burden of Guilt

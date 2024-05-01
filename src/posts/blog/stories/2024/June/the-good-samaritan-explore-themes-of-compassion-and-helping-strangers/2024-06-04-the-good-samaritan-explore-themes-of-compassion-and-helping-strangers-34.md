@@ -1,9 +1,9 @@
 ---
 title: "A Stranger's Kindness - Tom's Stories 34"
-date: 2024-06-04
+date: "2024-06-04"
 permalink: "stories/2024/June/the-good-samaritan-explore-themes-of-compassion-and-helping-strangers/"
-description: A single mother and her daughter, grappling with grief, find unexpected solace and hope in the kindness of a stranger who helps them through a car breakdown, inspiring them to renew their faith and face their challenges with renewed strength.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A single mother and her daughter, grappling with grief, find unexpected solace and hope in the kindness of a stranger who helps them through a car breakdown, inspiring them to renew their faith and face their challenges with renewed strength."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Stranger's Kindness

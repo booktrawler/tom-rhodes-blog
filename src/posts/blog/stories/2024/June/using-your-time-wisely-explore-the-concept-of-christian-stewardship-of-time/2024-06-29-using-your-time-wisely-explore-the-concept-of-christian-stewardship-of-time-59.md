@@ -1,9 +1,9 @@
 ---
 title: "Reclaiming My Time - Tom's Stories 59"
-date: 2024-06-29
+date: "2024-06-29"
 permalink: "stories/2024/June/using-your-time-wisely-explore-the-concept-of-christian-stewardship-of-time/"
-description: The story follows a woman named Sarah as she learns to reclaim her time and find a healthier balance in her life. With the guidance of her pastor and the support of her family, Sarah overcomes the pressures of modern life and rediscovers the importance of her faith, personal well-being, and quality time with loved ones.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a woman named Sarah as she learns to reclaim her time and find a healthier balance in her life. With the guidance of her pastor and the support of her family, Sarah overcomes the pressures of modern life and rediscovers the importance of her faith, personal well-being, and quality time with loved ones."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Reclaiming My Time

@@ -1,9 +1,9 @@
 ---
 title: "A Sanctuary for the Soul - Tom's Stories 41"
-date: 2024-06-11
+date: "2024-06-11"
 permalink: "stories/2024/June/finding-a-church-home-explore-the-importance-of-finding-a-church-community/"
-description: A woman named Sarah, feeling lost and disconnected from her faith, finds a spiritual sanctuary in a welcoming church community, where she rediscovers her connection to God and herself through the guidance of a caring deacon and the support of the congregation.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah, feeling lost and disconnected from her faith, finds a spiritual sanctuary in a welcoming church community, where she rediscovers her connection to God and herself through the guidance of a caring deacon and the support of the congregation."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Sanctuary for the Soul

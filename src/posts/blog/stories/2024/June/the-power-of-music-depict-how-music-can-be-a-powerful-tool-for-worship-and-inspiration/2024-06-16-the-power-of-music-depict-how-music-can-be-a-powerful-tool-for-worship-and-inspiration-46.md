@@ -1,9 +1,9 @@
 ---
 title: "Melody of the Heart - Tom's Stories 46"
-date: 2024-06-16
+date: "2024-06-16"
 permalink: "stories/2024/June/the-power-of-music-depict-how-music-can-be-a-powerful-tool-for-worship-and-inspiration/"
-description: The story explores the struggles of the Rhodes family as they navigate life's challenges, including a mother's spiritual crisis, a father's efforts to support his family, and a daughter's search for connection. With the help of a pastoral counselor, they rediscover the power of music and faith to heal their relationships and find renewed purpose.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story explores the struggles of the Rhodes family as they navigate life's challenges, including a mother's spiritual crisis, a father's efforts to support his family, and a daughter's search for connection. With the help of a pastoral counselor, they rediscover the power of music and faith to heal their relationships and find renewed purpose."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Melody of the Heart

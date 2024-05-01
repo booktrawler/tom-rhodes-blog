@@ -1,9 +1,9 @@
 ---
 title: "The Reluctant Messenger - Tom's Stories 4"
-date: 2024-05-05
+date: "2024-05-05"
 permalink: "stories/2024/May/the-great-commission-illustrate-the-importance-of-spreading-the-gospel-message/"
-description: A woman named Sarah, initially reluctant to share her faith, finds purpose and courage when she befriends her neighbor Rachel, who also discovers a newfound connection to God through their relationship. Sarah's own faith is strengthened as she learns to embrace her role as a messenger of the gospel.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah, initially reluctant to share her faith, finds purpose and courage when she befriends her neighbor Rachel, who also discovers a newfound connection to God through their relationship. Sarah's own faith is strengthened as she learns to embrace her role as a messenger of the gospel."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Reluctant Messenger

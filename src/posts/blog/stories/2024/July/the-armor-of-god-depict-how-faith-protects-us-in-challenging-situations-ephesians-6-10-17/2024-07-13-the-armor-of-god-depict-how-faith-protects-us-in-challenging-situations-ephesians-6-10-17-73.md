@@ -1,9 +1,9 @@
 ---
 title: "Shielded by Faith - Tom's Stories 73"
-date: 2024-07-13
+date: "2024-07-13"
 permalink: "stories/2024/July/the-armor-of-god-depict-how-faith-protects-us-in-challenging-situations-ephesians-6-10-17/"
-description: The story follows a married couple, Sarah and Michael, as they navigate a crisis in their relationship. Through their journey of faith and self-discovery, they find the strength to rebuild their marriage, with the help of pastoral guidance and the metaphor of the Armor of God. The narrative highlights the power of open communication, vulnerability, and spiritual resources in overcoming relationship challenges.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a married couple, Sarah and Michael, as they navigate a crisis in their relationship. Through their journey of faith and self-discovery, they find the strength to rebuild their marriage, with the help of pastoral guidance and the metaphor of the Armor of God. The narrative highlights the power of open communication, vulnerability, and spiritual resources in overcoming relationship challenges."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Shielded by Faith

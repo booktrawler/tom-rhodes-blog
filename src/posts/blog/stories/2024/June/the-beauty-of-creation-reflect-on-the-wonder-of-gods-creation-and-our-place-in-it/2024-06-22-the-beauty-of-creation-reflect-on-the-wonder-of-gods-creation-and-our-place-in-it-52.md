@@ -1,9 +1,9 @@
 ---
 title: "The Winding Path - Tom's Stories 52"
-date: 2024-06-22
+date: "2024-06-22"
 permalink: "stories/2024/June/the-beauty-of-creation-reflect-on-the-wonder-of-gods-creation-and-our-place-in-it/"
-description: The Winding Trail is a story about a woman named Sarah who is struggling with her faith, until her friend David takes her on a hike through a breathtaking natural landscape, which helps her reconnect with God's presence and the power of community to renew one's spiritual journey.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The Winding Trail is a story about a woman named Sarah who is struggling with her faith, until her friend David takes her on a hike through a breathtaking natural landscape, which helps her reconnect with God's presence and the power of community to renew one's spiritual journey."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Winding Path

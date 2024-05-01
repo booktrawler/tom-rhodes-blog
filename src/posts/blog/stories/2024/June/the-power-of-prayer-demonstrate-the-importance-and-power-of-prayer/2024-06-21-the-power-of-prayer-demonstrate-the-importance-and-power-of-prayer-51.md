@@ -1,9 +1,9 @@
 ---
 title: "A Mother's Prayer - Tom's Stories 51"
-date: 2024-06-21
+date: "2024-06-21"
 permalink: "stories/2024/June/the-power-of-prayer-demonstrate-the-importance-and-power-of-prayer/"
-description: A mother's heartfelt prayer and a transformative retreat experience help a struggling teenage son reconnect with his faith and his family in this poignant story about the power of love, faith, and understanding.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A mother's heartfelt prayer and a transformative retreat experience help a struggling teenage son reconnect with his faith and his family in this poignant story about the power of love, faith, and understanding."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Mother's Prayer

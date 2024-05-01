@@ -1,9 +1,9 @@
 ---
 title: "A Love Truly Divine - Tom's Stories 2"
-date: 2024-05-03
+date: "2024-05-03"
 permalink: "stories/2024/May/christian-dating-explore-the-challenges-and-joys-of-dating-as-a-christian/"
-description: A story of two Christians, Sarah and Mark, who meet at a singles' event and develop a deep, faith-based connection, navigating the challenges of Christian dating and ultimately leading to a heartwarming engagement and the promise of a marriage rooted in divine love.
-theme: Family Dynamics, Spiritual Growth
+description: "A story of two Christians, Sarah and Mark, who meet at a singles' event and develop a deep, faith-based connection, navigating the challenges of Christian dating and ultimately leading to a heartwarming engagement and the promise of a marriage rooted in divine love."
+theme: "[Family Dynamics, Spiritual Growth]"
 tags: "Tom's Stories"
 ---
 #A Love Truly Divine

@@ -1,9 +1,9 @@
 ---
 title: "The Darkest Valley - Tom's Stories 40"
-date: 2024-06-10
+date: "2024-06-10"
 permalink: "stories/2024/June/hell-explore-the-concept-of-hell-and-its-consequences/"
-description: The story follows Sarah, a devout Christian grappling with crippling fears of hell and eternal separation from God. Under the guidance of her compassionate pastor, Reverend Michael, Sarah navigates her spiritual crisis, ultimately finding solace and renewed faith in God's boundless love and mercy. The narrative explores themes of spiritual growth, family dynamics, and the transformative power of pastoral care.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a devout Christian grappling with crippling fears of hell and eternal separation from God. Under the guidance of her compassionate pastor, Reverend Michael, Sarah navigates her spiritual crisis, ultimately finding solace and renewed faith in God's boundless love and mercy. The narrative explores themes of spiritual growth, family dynamics, and the transformative power of pastoral care."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Darkest Valley

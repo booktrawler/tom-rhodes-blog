@@ -1,9 +1,9 @@
 ---
 title: "A Cup of Grace - Tom's Stories 3"
-date: 2024-05-04
+date: "2024-05-04"
 permalink: "stories/2024/May/sharing-your-faith-illustrate-how-to-share-your-faith-with-others-naturally/"
-description: A Cup of Grace is a heartwarming story about a pastor's wife named Sarah who struggles to openly share her faith but finds the courage to minister to her neighbor Jenna, who is facing financial struggles. The narrative explores themes of faith, self-discovery, and the power of community, highlighting the transformative impact of compassion and the importance of embracing one's role as a light in the lives of others.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A Cup of Grace is a heartwarming story about a pastor's wife named Sarah who struggles to openly share her faith but finds the courage to minister to her neighbor Jenna, who is facing financial struggles. The narrative explores themes of faith, self-discovery, and the power of community, highlighting the transformative impact of compassion and the importance of embracing one's role as a light in the lives of others."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Cup of Grace

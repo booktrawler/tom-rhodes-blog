@@ -1,9 +1,9 @@
 ---
 title: "A Second Chance at Grace - Tom's Stories 72"
-date: 2024-07-12
+date: "2024-07-12"
 permalink: "stories/2024/July/redemption-create-a-story-about-someone-who-overcomes-their-past-mistakes/"
-description: The story follows Sarah, a woman who has strayed from her faith and is struggling with the guilt and shame of past mistakes, particularly her affair that shattered her marriage and estranged her from her daughter, Emily. Through a chance encounter at church, Sarah and Emily begin to tentatively rebuild their relationship, leading Sarah on a journey of self-discovery, spiritual renewal, and the power of forgiveness.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a woman who has strayed from her faith and is struggling with the guilt and shame of past mistakes, particularly her affair that shattered her marriage and estranged her from her daughter, Emily. Through a chance encounter at church, Sarah and Emily begin to tentatively rebuild their relationship, leading Sarah on a journey of self-discovery, spiritual renewal, and the power of forgiveness."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Second Chance at Grace

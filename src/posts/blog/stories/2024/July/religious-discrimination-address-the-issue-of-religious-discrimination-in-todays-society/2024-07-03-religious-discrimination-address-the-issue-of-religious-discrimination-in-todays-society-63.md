@@ -1,9 +1,9 @@
 ---
 title: "A Light in the Darkness - Tom's Stories 63"
-date: 2024-07-03
+date: "2024-07-03"
 permalink: "stories/2024/July/religious-discrimination-address-the-issue-of-religious-discrimination-in-todays-society/"
-description: A Christian woman named Sarah faces pressure from her employer to hide her faith, but she refuses to compromise her beliefs, even at the risk of losing her job. Supported by her family and church community, Sarah finds the courage to stand firm in her convictions, ultimately strengthening her faith and her family's unity.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A Christian woman named Sarah faces pressure from her employer to hide her faith, but she refuses to compromise her beliefs, even at the risk of losing her job. Supported by her family and church community, Sarah finds the courage to stand firm in her convictions, ultimately strengthening her faith and her family's unity."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Light in the Darkness

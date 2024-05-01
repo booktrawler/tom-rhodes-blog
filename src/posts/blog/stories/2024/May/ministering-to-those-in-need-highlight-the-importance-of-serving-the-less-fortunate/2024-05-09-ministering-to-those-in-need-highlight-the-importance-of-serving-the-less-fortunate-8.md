@@ -1,9 +1,9 @@
 ---
 title: "A Leap of Faith - Tom's Stories 8"
-date: 2024-05-09
+date: "2024-05-09"
 permalink: "stories/2024/May/ministering-to-those-in-need-highlight-the-importance-of-serving-the-less-fortunate/"
-description: A young couple, Sarah and Tom, face an unexpected pregnancy, testing their carefully laid plans. As they navigate the challenges, their faith and love for each other guide them through this transformative journey, culminating in the birth of their daughter and a renewed sense of purpose and wonder.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A young couple, Sarah and Tom, face an unexpected pregnancy, testing their carefully laid plans. As they navigate the challenges, their faith and love for each other guide them through this transformative journey, culminating in the birth of their daughter and a renewed sense of purpose and wonder."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Leap of Faith

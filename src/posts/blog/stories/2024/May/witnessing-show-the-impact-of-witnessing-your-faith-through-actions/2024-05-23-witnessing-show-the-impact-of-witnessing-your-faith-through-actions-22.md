@@ -1,9 +1,9 @@
 ---
 title: "Seeing the Light - Tom's Stories 22"
-date: 2024-05-23
+date: "2024-05-23"
 permalink: "stories/2024/May/witnessing-show-the-impact-of-witnessing-your-faith-through-actions/"
-description: A family grappling with financial and relational challenges finds renewed hope and connection through the central character's act of faith and reaching out to others, leading to a transformation in their own family and that of their neighbor.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A family grappling with financial and relational challenges finds renewed hope and connection through the central character's act of faith and reaching out to others, leading to a transformation in their own family and that of their neighbor."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Seeing the Light

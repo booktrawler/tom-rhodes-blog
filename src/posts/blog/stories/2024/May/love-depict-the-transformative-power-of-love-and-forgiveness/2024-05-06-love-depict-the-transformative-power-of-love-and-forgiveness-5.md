@@ -1,9 +1,9 @@
 ---
 title: "Renewed Promise - Tom's Stories 5"
-date: 2024-05-06
+date: "2024-05-06"
 permalink: "stories/2024/May/love-depict-the-transformative-power-of-love-and-forgiveness/"
-description: The story follows a married couple, Sarah and David, as they attend a marriage retreat to work on their relationship after infidelity. Through the guidance of the retreat's pastor, they navigate the difficult path of forgiveness and reconciliation, finding the strength to rebuild trust and reignite their love, exploring themes of forgiveness, faith, and the resilience of the human spirit.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a married couple, Sarah and David, as they attend a marriage retreat to work on their relationship after infidelity. Through the guidance of the retreat's pastor, they navigate the difficult path of forgiveness and reconciliation, finding the strength to rebuild trust and reignite their love, exploring themes of forgiveness, faith, and the resilience of the human spirit."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Renewed Promise

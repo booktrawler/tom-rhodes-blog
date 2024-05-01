@@ -1,9 +1,9 @@
 ---
 title: "The Healing Waters - Tom's Stories 50"
-date: 2024-06-20
+date: "2024-06-20"
 permalink: "stories/2024/June/the-miracles-of-jesus-retell-a-miracle-story-with-a-modern-twist/"
-description: The story follows the Rhodes family as they visit a sacred spring, seeking healing and restoration from the challenges they face - Michael's chronic illness, David's depression, and the family's collective grief. Through prayer, connection, and the power of the spring's waters, they find a renewed sense of hope and purpose, guided by their faith and the support of their community.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows the Rhodes family as they visit a sacred spring, seeking healing and restoration from the challenges they face - Michael's chronic illness, David's depression, and the family's collective grief. Through prayer, connection, and the power of the spring's waters, they find a renewed sense of hope and purpose, guided by their faith and the support of their community."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Healing Waters

@@ -1,9 +1,9 @@
 ---
 title: "A Seat at the Table - Tom's Stories 65"
-date: 2024-07-05
+date: "2024-07-05"
 permalink: "stories/2024/July/the-last-supper-depict-the-significance-of-the-last-supper-for-modern-christians/"
-description: The story follows Sarah, a woman who feels disconnected from her faith, until a Maundy Thursday service reminds her of the profound symbolism of the Last Supper and the importance of having a seat at the table in God's family. Sarah and her husband Tom then recommit to their spiritual journey, strengthening their marriage and family through shared faith and community.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a woman who feels disconnected from her faith, until a Maundy Thursday service reminds her of the profound symbolism of the Last Supper and the importance of having a seat at the table in God's family. Sarah and her husband Tom then recommit to their spiritual journey, strengthening their marriage and family through shared faith and community."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Seat at the Table

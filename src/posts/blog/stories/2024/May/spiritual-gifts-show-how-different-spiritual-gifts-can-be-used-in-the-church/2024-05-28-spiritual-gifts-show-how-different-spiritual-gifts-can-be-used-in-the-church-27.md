@@ -1,9 +1,9 @@
 ---
 title: "The Choir's Calling - Tom's Stories 27"
-date: 2024-05-28
+date: "2024-05-28"
 permalink: "stories/2024/May/spiritual-gifts-show-how-different-spiritual-gifts-can-be-used-in-the-church/"
-description: The story follows Sarah's journey to overcome her self-doubt and fears and embrace her calling as the choir leader in her church, with the encouragement of her pastor and the support of the church community. It explores themes of spiritual gifts, overcoming fears, embracing one's purpose, and the transformative power of music and worship in glorifying God.
-theme: Spiritual Gifts, Overcoming Fear and Self-Doubt, Embracing One's Calling, Encouragement and Community Support, Transformative Power of Music and Worship, Faith, Courage, and Glorifying God
+description: "The story follows Sarah's journey to overcome her self-doubt and fears and embrace her calling as the choir leader in her church, with the encouragement of her pastor and the support of the church community. It explores themes of spiritual gifts, overcoming fears, embracing one's purpose, and the transformative power of music and worship in glorifying God."
+theme: "[Spiritual Gifts, Overcoming Fear and Self-Doubt, Embracing One's Calling, Encouragement and Community Support, Transformative Power of Music and Worship, Faith, Courage, and Glorifying God]"
 tags: "Tom's Stories"
 ---
 #The Choir's Calling

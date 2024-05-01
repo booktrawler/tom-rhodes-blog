@@ -1,9 +1,9 @@
 ---
 title: "Melodies of Hope - Tom's Stories 7"
-date: 2024-05-08
+date: "2024-05-08"
 permalink: "stories/2024/May/christian-music-create-a-story-about-the-impact-of-christian-music/"
-description: A woman named Sarah struggles to balance work, household chores, and her family's needs, feeling disconnected from her faith. She rediscovers the power of worship music to bring her family closer and restore her spiritual connection, highlighting the importance of faith, community, and pastoral guidance in navigating the challenges of modern family life.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah struggles to balance work, household chores, and her family's needs, feeling disconnected from her faith. She rediscovers the power of worship music to bring her family closer and restore her spiritual connection, highlighting the importance of faith, community, and pastoral guidance in navigating the challenges of modern family life."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Melodies of Hope

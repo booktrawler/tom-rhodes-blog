@@ -1,9 +1,9 @@
 ---
 title: "The Forgiven Heart - Tom's Stories 42"
-date: 2024-06-12
+date: "2024-06-12"
 permalink: "stories/2024/June/the-importance-of-confession-show-the-power-of-confession-and-the-freedom-it-brings/"
-description: The Forgiven Heart is a poignant story about a woman named Sarah who struggles with the guilt of a past indiscretion, and her journey to find forgiveness and healing through her faith, her husband's support, and the guidance of her pastor. The story explores themes of self-discovery, the power of forgiveness, and the importance of community in overcoming life's challenges.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The Forgiven Heart is a poignant story about a woman named Sarah who struggles with the guilt of a past indiscretion, and her journey to find forgiveness and healing through her faith, her husband's support, and the guidance of her pastor. The story explores themes of self-discovery, the power of forgiveness, and the importance of community in overcoming life's challenges."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Forgiven Heart

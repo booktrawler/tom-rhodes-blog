@@ -1,9 +1,9 @@
 ---
 title: "The Patience to Persevere - Tom's Stories 70"
-date: 2024-07-10
+date: "2024-07-10"
 permalink: "stories/2024/July/the-fruits-of-the-holy-spirit-explore-one-of-the-fruits-love-joy-peace-patience-kindness-goodness-faithfulness-gentleness-self-control-in-a-characters-life/"
-description: The story follows the Henderson family as they navigate a whirlwind of challenges, including a rebellious teenage daughter, an anxious son, and a short-tempered husband. The mother, Sarah, draws strength from her faith and the power of patience, guiding her family through the turmoil with compassion and understanding, ultimately finding hope and unity.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows the Henderson family as they navigate a whirlwind of challenges, including a rebellious teenage daughter, an anxious son, and a short-tempered husband. The mother, Sarah, draws strength from her faith and the power of patience, guiding her family through the turmoil with compassion and understanding, ultimately finding hope and unity."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Patience to Persevere

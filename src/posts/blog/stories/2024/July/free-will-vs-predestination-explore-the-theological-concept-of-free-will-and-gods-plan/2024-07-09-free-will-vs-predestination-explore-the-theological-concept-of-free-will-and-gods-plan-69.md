@@ -1,9 +1,9 @@
 ---
 title: "Threads of Fate - Tom's Stories 69"
-date: 2024-07-09
+date: "2024-07-09"
 permalink: "stories/2024/July/free-will-vs-predestination-explore-the-theological-concept-of-free-will-and-gods-plan/"
-description: The story follows the Rhodes family as they navigate Olivia's crisis of faith, with her parents Sarah and Michael guiding her through her doubts about God's plan and the purpose of suffering. Through open communication and shared wisdom, the family emerges stronger, deepening their faith and family bond.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows the Rhodes family as they navigate Olivia's crisis of faith, with her parents Sarah and Michael guiding her through her doubts about God's plan and the purpose of suffering. Through open communication and shared wisdom, the family emerges stronger, deepening their faith and family bond."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Threads of Fate

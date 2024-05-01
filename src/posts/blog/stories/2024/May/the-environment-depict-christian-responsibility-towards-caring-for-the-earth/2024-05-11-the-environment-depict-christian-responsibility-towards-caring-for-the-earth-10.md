@@ -1,9 +1,9 @@
 ---
 title: "The Gardener's Calling - Tom's Stories 10"
-date: 2024-05-11
+date: "2024-05-11"
 permalink: "stories/2024/May/the-environment-depict-christian-responsibility-towards-caring-for-the-earth/"
-description: The story follows Sarah, a gardener, and David, a landscape designer, who find a shared calling in honoring God through the stewardship of the Earth. Their collaboration, guided by faith and a desire to make a difference, transforms their lives and inspires their clients to adopt sustainable practices, emphasizing the power of faith, purpose, and community in shaping one's vocation and making a meaningful impact.
-theme: Stewardship of the Earth and environmental responsibility from a Christian perspective, Finding purpose and meaning in one's work by aligning it with one's faith, Spiritual growth and guidance through a connection with nature and the divine, Collaboration and the power of community in addressing environmental challenges
+description: "The story follows Sarah, a gardener, and David, a landscape designer, who find a shared calling in honoring God through the stewardship of the Earth. Their collaboration, guided by faith and a desire to make a difference, transforms their lives and inspires their clients to adopt sustainable practices, emphasizing the power of faith, purpose, and community in shaping one's vocation and making a meaningful impact."
+theme: "[Stewardship of the Earth and environmental responsibility from a Christian perspective, Finding purpose and meaning in one's work by aligning it with one's faith, Spiritual growth and guidance through a connection with nature and the divine, Collaboration and the power of community in addressing environmental challenges]"
 tags: "Tom's Stories"
 ---
 #The Gardener's Calling

@@ -1,9 +1,9 @@
 ---
 title: "The Scientist's Faith - Tom's Stories 48"
-date: 2024-06-18
+date: "2024-06-18"
 permalink: "stories/2024/June/science-and-faith-explore-the-relationship-between-science-and-faith/"
-description: A scientist named Sarah struggles to reconcile her groundbreaking scientific discoveries with her Christian faith, until her pastor friend Michael helps her see the harmony between faith and science. The story explores the intersection of faith and scientific inquiry, and how one can find wonder and purpose in both realms.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A scientist named Sarah struggles to reconcile her groundbreaking scientific discoveries with her Christian faith, until her pastor friend Michael helps her see the harmony between faith and science. The story explores the intersection of faith and scientific inquiry, and how one can find wonder and purpose in both realms."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Scientist's Faith

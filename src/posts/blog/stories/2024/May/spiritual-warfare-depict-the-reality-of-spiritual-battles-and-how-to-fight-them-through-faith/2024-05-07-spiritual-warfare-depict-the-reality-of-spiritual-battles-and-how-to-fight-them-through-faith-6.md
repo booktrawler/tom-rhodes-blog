@@ -1,9 +1,9 @@
 ---
 title: "Steadfast Faith - Tom's Stories 6"
-date: 2024-05-07
+date: "2024-05-07"
 permalink: "stories/2024/May/spiritual-warfare-depict-the-reality-of-spiritual-battles-and-how-to-fight-them-through-faith/"
-description: A woman named Sarah faces spiritual battles, but with the support of her husband, daughter, and pastor, she puts on the full armor of God and stands firm in her faith, demonstrating the power of family, community, and grounding oneself in God's word to overcome spiritual attacks.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah faces spiritual battles, but with the support of her husband, daughter, and pastor, she puts on the full armor of God and stands firm in her faith, demonstrating the power of family, community, and grounding oneself in God's word to overcome spiritual attacks."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Steadfast Faith

@@ -1,9 +1,9 @@
 ---
 title: "The Gift of Sabbath - Tom's Stories 62"
-date: 2024-07-02
+date: "2024-07-02"
 permalink: "stories/2024/July/the-importance-of-rest-explore-the-concept-of-sabbath-rest-and-its-importance-in-our-busy-lives/"
-description: The story follows a woman named Sarah, who is constantly overwhelmed by the demands of work, household chores, and family responsibilities. Her husband encourages her to take a Sabbath day to rest and reconnect with God, which she initially resists but ultimately embraces, finding profound peace and renewal. The story highlights the transformative power of the Sabbath and its potential to impact individuals and communities.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a woman named Sarah, who is constantly overwhelmed by the demands of work, household chores, and family responsibilities. Her husband encourages her to take a Sabbath day to rest and reconnect with God, which she initially resists but ultimately embraces, finding profound peace and renewal. The story highlights the transformative power of the Sabbath and its potential to impact individuals and communities."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Gift of Sabbath

@@ -1,9 +1,9 @@
 ---
 title: "Climbing the Mountain - Tom's Stories 20"
-date: 2024-05-21
+date: "2024-05-21"
 permalink: "stories/2024/May/david-and-goliath-showcase-overcoming-seemingly-insurmountable-odds/"
-description: A grieving widow, Sarah, finds purpose and spiritual growth after her daughter, Michelle, struggles with a challenging hike. Drawing strength from her faith and her daughter's support, Sarah overcomes her own fears and doubts, leading them both to a transformative experience that reignites Sarah's sense of purpose in the face of loss.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A grieving widow, Sarah, finds purpose and spiritual growth after her daughter, Michelle, struggles with a challenging hike. Drawing strength from her faith and her daughter's support, Sarah overcomes her own fears and doubts, leading them both to a transformative experience that reignites Sarah's sense of purpose in the face of loss."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Climbing the Mountain

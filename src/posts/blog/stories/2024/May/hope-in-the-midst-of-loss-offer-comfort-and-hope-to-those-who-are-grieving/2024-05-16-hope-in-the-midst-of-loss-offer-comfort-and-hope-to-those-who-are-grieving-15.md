@@ -1,9 +1,9 @@
 ---
 title: "A Glimmer of Hope - Tom's Stories 15"
-date: 2024-05-16
+date: "2024-05-16"
 permalink: "stories/2024/May/hope-in-the-midst-of-loss-offer-comfort-and-hope-to-those-who-are-grieving/"
-description: A woman named Sarah grapples with grief after the sudden death of her husband, but finds solace in her faith and the support of her church community, led by the compassionate Pastor John, ultimately renewing her sense of hope and purpose despite her profound loss.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A woman named Sarah grapples with grief after the sudden death of her husband, but finds solace in her faith and the support of her church community, led by the compassionate Pastor John, ultimately renewing her sense of hope and purpose despite her profound loss."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Glimmer of Hope

@@ -1,9 +1,9 @@
 ---
 title: "The Unexpected Blessing - Tom's Stories 64"
-date: 2024-07-04
+date: "2024-07-04"
 permalink: "stories/2024/July/the-unexpected-gift-of-faith-explore-how-someone-finds-faith-in-surprising-circumstances/"
-description: A couple faces financial hardship after the husband loses his job, but their faith and the support of a new friend help them overcome the challenges and find unexpected blessings in their lives.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A couple faces financial hardship after the husband loses his job, but their faith and the support of a new friend help them overcome the challenges and find unexpected blessings in their lives."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Unexpected Blessing

@@ -1,9 +1,9 @@
 ---
 title: "A Forgiving Heart - Tom's Stories 18"
-date: 2024-05-19
+date: "2024-05-19"
 permalink: "stories/2024/May/the-bible-show-how-the-bible-can-be-relevant-to-modern-life/"
-description: The story follows a woman named Sarah who is struggling to forgive her husband after discovering his infidelity. With the guidance of her pastor and the support of her family, Sarah finds the courage to embark on a journey of reconciliation, ultimately discovering the transformative power of forgiveness in her marriage and her life.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a woman named Sarah who is struggling to forgive her husband after discovering his infidelity. With the guidance of her pastor and the support of her family, Sarah finds the courage to embark on a journey of reconciliation, ultimately discovering the transformative power of forgiveness in her marriage and her life."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Forgiving Heart

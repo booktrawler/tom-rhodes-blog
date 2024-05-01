@@ -1,9 +1,9 @@
 ---
 title: "A Light in the Darkness - Tom's Stories 1"
-date: 2024-05-02
+date: "2024-05-02"
 permalink: "stories/2024/May/suffering-offer-comfort-and-hope-in-the-face-of-suffering/"
-description: A Light in the Darkness is a poignant story about the Johnson family's journey through hardship and the transformative power of faith, family, and a symbolic stained-glass cross that guides them towards hope and resilience in the face of overwhelming challenges.
-theme: Family Dynamics, Grief and Loss, Spiritual Growth, Pastoral Guidance, Overcoming Adversity
+description: "A Light in the Darkness is a poignant story about the Johnson family's journey through hardship and the transformative power of faith, family, and a symbolic stained-glass cross that guides them towards hope and resilience in the face of overwhelming challenges."
+theme: "[Family Dynamics, Grief and Loss, Spiritual Growth, Pastoral Guidance, Overcoming Adversity]"
 tags: "Tom's Stories"
 ---
 #A Light in the Darkness

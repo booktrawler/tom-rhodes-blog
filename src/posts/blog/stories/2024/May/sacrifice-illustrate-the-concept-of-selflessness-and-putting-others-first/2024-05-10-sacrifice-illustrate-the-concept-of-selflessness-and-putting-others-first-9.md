@@ -1,9 +1,9 @@
 ---
 title: "The Sacrifice - Tom's Stories 9"
-date: 2024-05-10
+date: "2024-05-10"
 permalink: "stories/2024/May/sacrifice-illustrate-the-concept-of-selflessness-and-putting-others-first/"
-description: The Summers family struggles to reconcile their daughter Chloe's passion for art with their concerns for her financial future. Through spiritual reflection and open communication, they find a way to support Chloe's dreams while addressing their own worries, demonstrating the power of compromise, empathy, and faith in navigating family challenges.
-theme: Family Dynamics, Parenting Challenges, Sacrifice and Selflessness, Navigating Differences in Dreams and Aspirations, Spiritual Growth and Guidance, Importance of Open Communication and Understanding
+description: "The Summers family struggles to reconcile their daughter Chloe's passion for art with their concerns for her financial future. Through spiritual reflection and open communication, they find a way to support Chloe's dreams while addressing their own worries, demonstrating the power of compromise, empathy, and faith in navigating family challenges."
+theme: "[Family Dynamics, Parenting Challenges, Sacrifice and Selflessness, Navigating Differences in Dreams and Aspirations, Spiritual Growth and Guidance, Importance of Open Communication and Understanding]"
 tags: "Tom's Stories"
 ---
 #The Sacrifice

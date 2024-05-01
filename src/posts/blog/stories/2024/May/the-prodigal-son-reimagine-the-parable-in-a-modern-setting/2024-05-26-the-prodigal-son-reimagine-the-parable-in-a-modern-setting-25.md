@@ -1,9 +1,9 @@
 ---
 title: "The Prodigal Daughter - Tom's Stories 25"
-date: 2024-05-26
+date: "2024-05-26"
 permalink: "stories/2024/May/the-prodigal-son-reimagine-the-parable-in-a-modern-setting/"
-description: This captivating story follows the prodigal daughter Sarah as she reluctantly returns to her hometown, confronting her fractured relationship with her family and the faith of her childhood. The narrative explores themes of family dynamics, spiritual growth, and the transformative power of unconditional love and forgiveness, guided by a compassionate pastor's role in the journey of reconciliation and renewal.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "This captivating story follows the prodigal daughter Sarah as she reluctantly returns to her hometown, confronting her fractured relationship with her family and the faith of her childhood. The narrative explores themes of family dynamics, spiritual growth, and the transformative power of unconditional love and forgiveness, guided by a compassionate pastor's role in the journey of reconciliation and renewal."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Prodigal Daughter

@@ -1,9 +1,9 @@
 ---
 title: "A Mother's Prayer - Tom's Stories 44"
-date: 2024-06-14
+date: "2024-06-14"
 permalink: "stories/2024/June/christian-parenting-showcase-the-challenges-and-rewards-of-raising-children-in-the-faith/"
-description: The story A Mother's Prayer follows the life of Sarah, a devoted mother of four children, as she navigates the challenges of family life, including her eldest daughter Emma's crisis of faith. Through heartfelt prayer and the guidance of a compassionate pastor, Sarah and her family find strength and renewed purpose in their shared spiritual journey.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story A Mother's Prayer follows the life of Sarah, a devoted mother of four children, as she navigates the challenges of family life, including her eldest daughter Emma's crisis of faith. Through heartfelt prayer and the guidance of a compassionate pastor, Sarah and her family find strength and renewed purpose in their shared spiritual journey."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Mother's Prayer

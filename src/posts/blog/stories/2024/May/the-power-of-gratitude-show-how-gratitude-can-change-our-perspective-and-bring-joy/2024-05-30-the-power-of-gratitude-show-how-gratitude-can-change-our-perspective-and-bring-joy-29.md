@@ -1,9 +1,9 @@
 ---
 title: "Tom's Reflection:  - Tom's Stories 29"
-date: 2024-05-30
+date: "2024-05-30"
 permalink: "stories/2024/May/the-power-of-gratitude-show-how-gratitude-can-change-our-perspective-and-bring-joy/"
-description: The story explores the emotional journey of a family navigating the challenges of daily life. As the mother, Sarah, grapples with a sense of weariness and spiritual disconnection, her husband, Michael, plans a family outing to the botanical gardens, which becomes a transformative experience that reignites Sarah's faith and joy.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story explores the emotional journey of a family navigating the challenges of daily life. As the mother, Sarah, grapples with a sense of weariness and spiritual disconnection, her husband, Michael, plans a family outing to the botanical gardens, which becomes a transformative experience that reignites Sarah's faith and joy."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 <center>* * *</center>

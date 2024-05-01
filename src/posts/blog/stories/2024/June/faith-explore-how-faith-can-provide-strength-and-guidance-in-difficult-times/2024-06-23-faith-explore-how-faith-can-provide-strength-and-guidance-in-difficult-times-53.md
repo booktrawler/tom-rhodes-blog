@@ -1,9 +1,9 @@
 ---
 title: "The Sabbath Sanctuary - Tom's Stories 53"
-date: 2024-06-23
+date: "2024-06-23"
 permalink: "stories/2024/June/faith-explore-how-faith-can-provide-strength-and-guidance-in-difficult-times/"
-description: The story explores the Johnson family's struggles with maintaining traditions, parental expectations, and adolescent rebellion, while also dealing with grief and the search for spiritual renewal. The pastor's guidance and the sanctuary of the Sabbath provide a path for the family to find understanding, empathy, and a renewed sense of purpose.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story explores the Johnson family's struggles with maintaining traditions, parental expectations, and adolescent rebellion, while also dealing with grief and the search for spiritual renewal. The pastor's guidance and the sanctuary of the Sabbath provide a path for the family to find understanding, empathy, and a renewed sense of purpose."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Sabbath Sanctuary

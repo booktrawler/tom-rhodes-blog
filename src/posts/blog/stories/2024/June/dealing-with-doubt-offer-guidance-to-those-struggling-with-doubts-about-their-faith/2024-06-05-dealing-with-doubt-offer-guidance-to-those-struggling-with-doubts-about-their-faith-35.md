@@ -1,9 +1,9 @@
 ---
 title: "Doubting Thomas - Tom's Stories 35"
-date: 2024-06-05
+date: "2024-06-05"
 permalink: "stories/2024/June/dealing-with-doubt-offer-guidance-to-those-struggling-with-doubts-about-their-faith/"
-description: Doubting Thomas is a poignant story about a grieving mother's journey of faith, as she grapples with the tragic loss of her son and finds solace in her husband, pastor, and the promise of new life represented by the cross, exploring themes of grief, doubt, and spiritual growth.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "Doubting Thomas is a poignant story about a grieving mother's journey of faith, as she grapples with the tragic loss of her son and finds solace in her husband, pastor, and the promise of new life represented by the cross, exploring themes of grief, doubt, and spiritual growth."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Doubting Thomas

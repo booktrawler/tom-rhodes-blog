@@ -1,9 +1,9 @@
 ---
 title: "The Unexpected Messenger - Tom's Stories 54"
-date: 2024-06-24
+date: "2024-06-24"
 permalink: "stories/2024/June/interfaith-dialogue-show-the-importance-of-understanding-and-respecting-other-faiths/"
-description: The story follows a woman named Sarah who is deeply grieving the loss of her son. When a kind neighbor, Nadia, invites Sarah to an interfaith gathering at the local mosque, Sarah's journey of healing and spiritual rediscovery begins, exploring themes of grief, loss, community, and the transformative power of embracing different faiths.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a woman named Sarah who is deeply grieving the loss of her son. When a kind neighbor, Nadia, invites Sarah to an interfaith gathering at the local mosque, Sarah's journey of healing and spiritual rediscovery begins, exploring themes of grief, loss, community, and the transformative power of embracing different faiths."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Unexpected Messenger

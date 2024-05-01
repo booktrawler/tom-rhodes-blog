@@ -1,9 +1,9 @@
 ---
 title: "The Strength in Surrender - Tom's Stories 16"
-date: 2024-05-17
+date: "2024-05-17"
 permalink: "stories/2024/May/the-power-of-community-depict-how-a-christian-community-supports-one-another-through-challenges/"
-description: The story of the Rhodes family explores the transformative power of faith, community, and surrender as they navigate various challenges, including their children's struggles and the stress in their marriage. Turning to her church community, Sarah finds the strength and support to overcome her overwhelming anxiety and see her family through their difficulties.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story of the Rhodes family explores the transformative power of faith, community, and surrender as they navigate various challenges, including their children's struggles and the stress in their marriage. Turning to her church community, Sarah finds the strength and support to overcome her overwhelming anxiety and see her family through their difficulties."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Strength in Surrender

@@ -1,9 +1,9 @@
 ---
 title: "A Cup of Kindness - Tom's Stories 68"
-date: 2024-07-08
+date: "2024-07-08"
 permalink: "stories/2024/July/service-highlight-the-importance-of-helping-those-in-need/"
-description: The story of the Rhodes family and their encounter with Lily, a young woman in need, is a poignant tale of faith, family, and the transformative power of compassion. Through their selfless act of kindness, the family finds renewed purpose and spiritual growth, inspiring them to continue serving those in their community who are struggling.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story of the Rhodes family and their encounter with Lily, a young woman in need, is a poignant tale of faith, family, and the transformative power of compassion. Through their selfless act of kindness, the family finds renewed purpose and spiritual growth, inspiring them to continue serving those in their community who are struggling."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Cup of Kindness

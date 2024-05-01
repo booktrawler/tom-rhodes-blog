@@ -1,9 +1,9 @@
 ---
 title: "The Empty Nest - Tom's Stories 66"
-date: 2024-07-06
+date: "2024-07-06"
 permalink: "stories/2024/July/christian-holidays-give-a-story-based-on-a-christian-holidays-themes-christmas-easter-etc/"
-description: The story follows a mother, Sarah, as she navigates the transition of an empty nest after her children have grown up and left home. Through the support of her husband and her faith community, Sarah discovers a renewed sense of purpose and fulfillment, embracing new opportunities to serve and find personal growth.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a mother, Sarah, as she navigates the transition of an empty nest after her children have grown up and left home. Through the support of her husband and her faith community, Sarah discovers a renewed sense of purpose and fulfillment, embracing new opportunities to serve and find personal growth."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Empty Nest

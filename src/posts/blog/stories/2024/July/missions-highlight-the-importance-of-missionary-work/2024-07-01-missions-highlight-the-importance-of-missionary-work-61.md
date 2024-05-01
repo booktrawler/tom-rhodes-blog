@@ -1,9 +1,9 @@
 ---
 title: "Answering the Call - Tom's Stories 61"
-date: 2024-07-01
+date: "2024-07-01"
 permalink: "stories/2024/July/missions-highlight-the-importance-of-missionary-work/"
-description: Answering the Call is a heartwarming story about a woman who discovers her true purpose through a transformative missionary experience, finding renewed faith, community, and a deeper connection to herself and God.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "Answering the Call is a heartwarming story about a woman who discovers her true purpose through a transformative missionary experience, finding renewed faith, community, and a deeper connection to herself and God."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Answering the Call

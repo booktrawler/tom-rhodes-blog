@@ -1,9 +1,9 @@
 ---
 title: "The Prodigal Daughter - Tom's Stories 14"
-date: 2024-05-15
+date: "2024-05-15"
 permalink: "stories/2024/May/letting-go-and-trusting-god-illustrate-the-importance-of-surrendering-to-gods-will/"
-description: The story follows a mother's unwavering faith and unconditional love as she navigates the challenges of her estranged daughter's prodigal journey, ultimately leading to a poignant reunion that celebrates the transformative power of family, forgiveness, and spiritual guidance.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a mother's unwavering faith and unconditional love as she navigates the challenges of her estranged daughter's prodigal journey, ultimately leading to a poignant reunion that celebrates the transformative power of family, forgiveness, and spiritual guidance."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Prodigal Daughter

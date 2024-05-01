@@ -1,9 +1,9 @@
 ---
 title: "The Painter's Prayer - Tom's Stories 24"
-date: 2024-05-25
+date: "2024-05-25"
 permalink: "stories/2024/May/art-and-christianity-explore-how-art-expresses-faith/"
-description: The Painter's Prayer is a poignant story about a woman named Sarah who rediscovers her passion for painting and struggles to reconcile her creative vision with her deep Christian faith, as she navigates family dynamics and the influence of a progressive neighbor, ultimately finding a way to honor God through her art.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The Painter's Prayer is a poignant story about a woman named Sarah who rediscovers her passion for painting and struggles to reconcile her creative vision with her deep Christian faith, as she navigates family dynamics and the influence of a progressive neighbor, ultimately finding a way to honor God through her art."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Painter's Prayer

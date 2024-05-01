@@ -1,9 +1,9 @@
 ---
 title: "Courage in the Storm - Tom's Stories 67"
-date: 2024-07-07
+date: "2024-07-07"
 permalink: "stories/2024/July/facing-your-fears-show-how-faith-can-help-us-overcome-our-fears/"
-description: A family faces a powerful hurricane, finding courage, faith, and resilience as they navigate the storm. The story explores themes of family dynamics, parenting challenges, grief and loss, spiritual growth, and the role of pastoral guidance, showcasing the power of prayer, community, and the human spirit to overcome even the darkest of storms.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A family faces a powerful hurricane, finding courage, faith, and resilience as they navigate the storm. The story explores themes of family dynamics, parenting challenges, grief and loss, spiritual growth, and the role of pastoral guidance, showcasing the power of prayer, community, and the human spirit to overcome even the darkest of storms."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Courage in the Storm

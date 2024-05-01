@@ -1,9 +1,9 @@
 ---
 title: "The Waiting - Tom's Stories 49"
-date: 2024-06-19
+date: "2024-06-19"
 permalink: "stories/2024/June/the-second-coming-of-christ-depict-how-people-might-react-to-the-second-coming/"
-description: A couple navigates the uncertainty of the times, wrestling with their faith and fears, while finding strength in their love, community, and trust in God's plan, as they await the Second Coming of Christ.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A couple navigates the uncertainty of the times, wrestling with their faith and fears, while finding strength in their love, community, and trust in God's plan, as they await the Second Coming of Christ."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Waiting

@@ -1,9 +1,9 @@
 ---
 title: "The Seed That Took Root - Tom's Stories 21"
-date: 2024-05-22
+date: "2024-05-22"
 permalink: "stories/2024/May/the-parable-of-the-sower-show-how-different-people-respond-to-the-teachings-of-christianity/"
-description: The story The Seed That Took Root follows Sarah, a wife and mother, as she navigates her own spiritual journey and struggles to connect with her daughter Emma, who is also grappling with questions of faith. The narrative explores the themes of family dynamics, parenting challenges, grief, and spiritual growth, highlighting the importance of open communication, empathy, and pastoral guidance.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story The Seed That Took Root follows Sarah, a wife and mother, as she navigates her own spiritual journey and struggles to connect with her daughter Emma, who is also grappling with questions of faith. The narrative explores the themes of family dynamics, parenting challenges, grief, and spiritual growth, highlighting the importance of open communication, empathy, and pastoral guidance."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Seed That Took Root

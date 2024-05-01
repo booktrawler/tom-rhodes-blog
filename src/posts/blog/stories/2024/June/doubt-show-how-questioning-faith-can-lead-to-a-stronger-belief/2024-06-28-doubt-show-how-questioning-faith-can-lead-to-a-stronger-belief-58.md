@@ -1,9 +1,9 @@
 ---
 title: "The Doubting Heart - Tom's Stories 58"
-date: 2024-06-28
+date: "2024-06-28"
 permalink: "stories/2024/June/doubt-show-how-questioning-faith-can-lead-to-a-stronger-belief/"
-description: The story follows Sarah, a woman whose faith is shaken by her family's struggles, as she navigates a crisis of doubt and finds guidance from her pastor to rediscover her spiritual connection and strengthen her family's bond during this challenging time.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a woman whose faith is shaken by her family's struggles, as she navigates a crisis of doubt and finds guidance from her pastor to rediscover her spiritual connection and strengthen her family's bond during this challenging time."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Doubting Heart

@@ -1,9 +1,9 @@
 ---
 title: "A Path Revealed - Tom's Stories 23"
-date: 2024-05-24
+date: "2024-05-24"
 permalink: "stories/2024/May/discerning-gods-will-show-a-character-grappling-with-a-decision-and-seeking-gods-guidance/"
-description: The story follows a couple, Sarah and Michael, who face job loss and financial uncertainty. They turn to their faith, church community, and pastor for guidance, finding purpose and direction through prayer and trust in God's plan. The narrative explores themes of faith, resilience, and the importance of a supportive community in overcoming life's challenges.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a couple, Sarah and Michael, who face job loss and financial uncertainty. They turn to their faith, church community, and pastor for guidance, finding purpose and direction through prayer and trust in God's plan. The narrative explores themes of faith, resilience, and the importance of a supportive community in overcoming life's challenges."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Path Revealed

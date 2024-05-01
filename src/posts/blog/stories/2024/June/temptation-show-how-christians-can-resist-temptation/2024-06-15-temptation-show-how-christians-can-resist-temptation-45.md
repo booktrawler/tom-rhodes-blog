@@ -1,9 +1,9 @@
 ---
 title: "The Temptation of Sarah - Tom's Stories 45"
-date: 2024-06-15
+date: "2024-06-15"
 permalink: "stories/2024/June/temptation-show-how-christians-can-resist-temptation/"
-description: The Temptation of Sarah is a poignant story about a married couple, Sarah and Mark, who face the challenges of balancing work, family, and faith, and find the strength to overcome temptation and reconnect with God and each other through the support of their pastor and church community.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The Temptation of Sarah is a poignant story about a married couple, Sarah and Mark, who face the challenges of balancing work, family, and faith, and find the strength to overcome temptation and reconnect with God and each other through the support of their pastor and church community."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Temptation of Sarah

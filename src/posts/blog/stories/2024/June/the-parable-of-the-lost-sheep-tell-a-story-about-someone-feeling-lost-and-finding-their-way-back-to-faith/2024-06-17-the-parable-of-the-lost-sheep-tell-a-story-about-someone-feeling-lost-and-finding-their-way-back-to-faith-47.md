@@ -1,9 +1,9 @@
 ---
 title: "The Shepherd's Call - Tom's Stories 47"
-date: 2024-06-17
+date: "2024-06-17"
 permalink: "stories/2024/June/the-parable-of-the-lost-sheep-tell-a-story-about-someone-feeling-lost-and-finding-their-way-back-to-faith/"
-description: The story follows a woman named Sarah who feels lost and disconnected from her faith and family. With the guidance of her pastor, Sarah and her husband John rediscover their purpose and find their way back to the shepherd's call, strengthening their relationship and reconnecting with their spirituality. The story explores themes of purpose, faith, and the power of community.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows a woman named Sarah who feels lost and disconnected from her faith and family. With the guidance of her pastor, Sarah and her husband John rediscover their purpose and find their way back to the shepherd's call, strengthening their relationship and reconnecting with their spirituality. The story explores themes of purpose, faith, and the power of community."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Shepherd's Call

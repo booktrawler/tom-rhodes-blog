@@ -1,9 +1,9 @@
 ---
 title: "Holding On to Faith - Tom's Stories 30"
-date: 2024-05-31
+date: "2024-05-31"
 permalink: "stories/2024/May/christian-marriage-depict-the-importance-of-faith-in-a-christian-marriage/"
-description: Holding On to Faith is a heartwarming story about a married couple, Sarah and Tom, who must navigate the challenges of their growing distance and rediscover their faith and love through a weekend getaway. The story explores themes of faith, marriage, and the power of perseverance, offering a poignant reminder of the transformative nature of the divine and the resilience of the human spirit.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "Holding On to Faith is a heartwarming story about a married couple, Sarah and Tom, who must navigate the challenges of their growing distance and rediscover their faith and love through a weekend getaway. The story explores themes of faith, marriage, and the power of perseverance, offering a poignant reminder of the transformative nature of the divine and the resilience of the human spirit."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #Holding On to Faith

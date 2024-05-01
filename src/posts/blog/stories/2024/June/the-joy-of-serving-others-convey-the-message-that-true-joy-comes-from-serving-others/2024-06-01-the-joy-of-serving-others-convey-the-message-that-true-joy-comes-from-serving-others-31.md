@@ -1,9 +1,9 @@
 ---
 title: "The Serving Heart - Tom's Stories 31"
-date: 2024-06-01
+date: "2024-06-01"
 permalink: "stories/2024/June/the-joy-of-serving-others-convey-the-message-that-true-joy-comes-from-serving-others/"
-description: The story follows Sarah, a wife and mother struggling with the demands of her daily life. After a conversation with her pastor, she decides to focus on serving others, which helps her rediscover her sense of purpose and joy. The story emphasizes the transformative power of shifting one's perspective from self-focus to selfless service, leading to stronger relationships and a more fulfilling life.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "The story follows Sarah, a wife and mother struggling with the demands of her daily life. After a conversation with her pastor, she decides to focus on serving others, which helps her rediscover her sense of purpose and joy. The story emphasizes the transformative power of shifting one's perspective from self-focus to selfless service, leading to stronger relationships and a more fulfilling life."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #The Serving Heart

@@ -1,9 +1,9 @@
 ---
 title: "A Community of Faith - Tom's Stories 32"
-date: 2024-06-02
+date: "2024-06-02"
 permalink: "stories/2024/June/community-depict-the-importance-of-belonging-and-supporting-one-another/"
-description: This story follows Sarah, a woman who feels lost and isolated after moving to a new town, until she finds a welcoming church community that helps her rediscover her faith, purpose, and a sense of belonging. It highlights the transformative power of community, the importance of faith, and the journey of self-discovery.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "This story follows Sarah, a woman who feels lost and isolated after moving to a new town, until she finds a welcoming church community that helps her rediscover her faith, purpose, and a sense of belonging. It highlights the transformative power of community, the importance of faith, and the journey of self-discovery."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Community of Faith

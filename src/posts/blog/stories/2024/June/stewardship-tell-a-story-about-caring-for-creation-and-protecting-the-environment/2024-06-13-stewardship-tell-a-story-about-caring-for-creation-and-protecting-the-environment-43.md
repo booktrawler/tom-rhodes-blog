@@ -1,9 +1,9 @@
 ---
 title: "Uprooted - Tom's Stories 43"
-date: 2024-06-13
+date: "2024-06-13"
 permalink: "stories/2024/June/stewardship-tell-a-story-about-caring-for-creation-and-protecting-the-environment/"
-description: Uprooted is a heartwarming tale about a family's determination to save a beloved oak tree that holds deep personal and community significance, exploring themes of family dynamics, environmental stewardship, spiritual growth, and the power of community engagement in the face of adversity.
-theme: Family Dynamics, Stewardship and Environmental Protection, Spiritual Growth, Community Engagement
+description: "Uprooted is a heartwarming tale about a family's determination to save a beloved oak tree that holds deep personal and community significance, exploring themes of family dynamics, environmental stewardship, spiritual growth, and the power of community engagement in the face of adversity."
+theme: "[Family Dynamics, Stewardship and Environmental Protection, Spiritual Growth, Community Engagement]"
 tags: "Tom's Stories"
 ---
 #Uprooted

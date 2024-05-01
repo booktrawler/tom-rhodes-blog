@@ -1,9 +1,9 @@
 ---
 title: "A Legacy of Faith - Tom's Stories 26"
-date: 2024-05-27
+date: "2024-05-27"
 permalink: "stories/2024/May/bioethics-explore-christian-viewpoints-on-modern-bioethical-issues/"
-description: A Christian couple, Sarah and David, navigates the ethical and spiritual challenges of in vitro fertilization with the guidance of their pastor, Michael. Their faith journey, the support of their community, and the birth of their child strengthen their connection to their faith and legacy.
-theme: Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance
+description: "A Christian couple, Sarah and David, navigates the ethical and spiritual challenges of in vitro fertilization with the guidance of their pastor, Michael. Their faith journey, the support of their community, and the birth of their child strengthen their connection to their faith and legacy."
+theme: "[Family Dynamics, Parenting Challenges, Grief and Loss, Spiritual Growth, Pastoral Guidance]"
 tags: "Tom's Stories"
 ---
 #A Legacy of Faith
