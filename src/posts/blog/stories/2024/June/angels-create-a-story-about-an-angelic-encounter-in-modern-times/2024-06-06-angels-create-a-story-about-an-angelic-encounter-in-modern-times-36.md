@@ -1,5 +1,5 @@
 ---
-title: ""Unbreakable Faith" - Tom's Stories 36"
+title: "Unbreakable Faith - Tom's Stories 36"
 date: "2024-06-06"
 permalink: "stories/2024/June/angels-create-a-story-about-an-angelic-encounter-in-modern-times/"
 description: "The story of the Reynolds family's journey through financial hardship and their renewed faith, which leads to a miraculous turnaround, showcasing the transformative power of unwavering belief, family unity, and divine intervention in overcoming life's challenges."

@@ -1,5 +1,5 @@
 ---
-title: ""Keeping the Sabbath Holy" - Tom's Stories 38"
+title: "Keeping the Sabbath Holy - Tom's Stories 38"
 date: "2024-06-08"
 permalink: "stories/2024/June/the-ten-commandments-adapt-a-commandment-to-a-contemporary-situation/"
 description: "The story follows a marketing executive, Sarah, and her family as they navigate the challenges of modern life, including the demands of work, technology, and maintaining a healthy family dynamic. With the guidance of their pastor, they learn to prioritize their faith and relationships by honoring the Sabbath, leading to a renewed sense of peace, gratitude, and spiritual fulfillment."
